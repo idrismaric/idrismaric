@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idrismaric
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Engineering
+- 👀 I’m a Data Analytics and Data Science Trainer
+- 🌱 I’m constantly upskilling and would love to share and know more!
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 Please do reach me on my email: idrismaric@gmail.com
 
